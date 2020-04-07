@@ -1,4 +1,4 @@
-# MarvelCharactersList
+# Marvel Characters List App
 
 An Android app created for studies that list and give some information about Marvel characters
 
